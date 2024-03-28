@@ -9,7 +9,7 @@ My files related to the program:
 - Data Analysis with Python
 - Data Visualization with Python
 - IBM Data Analyst Capstone Project
-<br>
+## Find more
 My Professional Certificate: [PDF](https://www.coursera.org/account/accomplishments/specialization/certificate/H6LVULW5DG8D) <br>
 Program details: [Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 
