@@ -6,7 +6,7 @@ My files related to the program:
 - Python for Data Science, AI & Development
 - [Python Project for Data Science](https://github.com/fardiiin/IBM-Data-Analyst/tree/main/Python%20Project%20for%20Data%20Science)
 - Databases and SQL for Data Science with Python
-- Data Analysis with Python
+- [Data Analysis with Python](https://github.com/fardiiin/IBM-Data-Analyst/tree/main/Python%20Data%20Analysis)
 - Data Visualization with Python
 - IBM Data Analyst Capstone Project
 ## Find more
