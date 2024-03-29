@@ -6,12 +6,12 @@ Assuming I've recently joined a prestigious global IT and business consulting se
 
 **Part 1: Data Collection**
 - Collecting Data Using APIs
-  - 1.1 job_postings_data_location.csv
-  - 1.1 job_postings_data_language.csv
+  - `1.1 job_postings_data_location.csv`
+  - `1.1 job_postings_data_language.csv`
 - Collecting Data Using Webscraping
-  - 1.2 popular-languages.csv
+  - `1.2 popular-languages.csv`
 - Exploring Data
-  - 1.3 Explore survey data.ipynb
+  - `1.3 Explore survey data.ipynb`
 
 **Part 2: Data Wrangling**
 - Finding Missing Values
@@ -32,7 +32,8 @@ Assuming I've recently joined a prestigious global IT and business consulting se
 - Comparison
 
 **Part 5: Dashboard Creation**
-- Dashboards
+- [Dashboard by IBM Cognos Analytics](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2BData%2BAnalyst%2BCapstone&action=view&mode=dashboard&subView=model0000018e7a0392eb_00000000)
+  - On dataset `m5_survey_data_demographics.csv` and `m5_survey_data_technologies_normalised.csv`
 
 **Part 6: Presentation of Findings**
 - Final Presentation
