@@ -29,8 +29,8 @@ Assuming I've recently joined a prestigious global IT and business consulting se
 - Comparison
 
 ## Part 5: Dashboard Creation
-- [Dashboard by IBM Cognos Analytics](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2BData%2BAnalyst%2BCapstone&action=view&mode=dashboard&subView=model0000018e7a0392eb_00000000) <br>
 On dataset `m5_survey_data_demographics.csv` and `m5_survey_data_technologies_normalised.csv`
+- [Dashboard by IBM Cognos Analytics](https://eu2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FIBM%2BData%2BAnalyst%2BCapstone&action=view&mode=dashboard&subView=model0000018e7a0392eb_00000000) <br>
 
 ## Part 6: Presentation of Findings
 TBA
