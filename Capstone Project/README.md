@@ -7,31 +7,31 @@ One of the key initiatives involves regularly analyzing data to anticipate futur
 
 Here's a breakdown of what I'll be doing:
 
-### Module 1: Data Collection
+**Module 1: Data Collection**
 - Collecting Data Using APIs
 - Collecting Data Using Webscraping
 - Exploring Data
 
-### Module 2: Data Wrangling
+**Module 2: Data Wrangling**
 - Finding Missing Values
 - Determining Missing Values
 - Finding Duplicates
 - Removing Duplicates
 - Normalizing Data
 
-### Module 3: Exploratory Data Analysis
+**Module 3: Exploratory Data Analysis**
 - Distribution
 - Outliers
 - Correlation
 
-### Module 4: Data Visualization
+**Module 4: Data Visualization**
 - Visualizing Distribution of Data
 - Relationship
 - Composition
 - Comparison
 
-### Module 5: Dashboard Creation
+**Module 5: Dashboard Creation**
 - Dashboards
 
-### Module 6: Presentation of Findings
+**Module 6: Presentation of Findings**
 - Final Presentation
