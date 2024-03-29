@@ -8,7 +8,7 @@ My files related to the program:
 - Databases and SQL for Data Science with Python
 - [Data Analysis with Python](https://github.com/fardiiin/IBM-Data-Analyst/tree/main/Python%20Data%20Analysis)
 - [Data Visualization with Python](https://github.com/fardiiin/IBM-Data-Analyst/tree/main/Python%20Data%20Visualization)
-- IBM Data Analyst Capstone Project
+- [IBM Data Analyst Capstone Project](https://github.com/fardiiin/IBM-Data-Analyst/tree/main/Capstone%20Project)
 ## Find more
 My Professional Certificate: [PDF](https://www.coursera.org/account/accomplishments/specialization/certificate/H6LVULW5DG8D) <br>
 Program details: [Coursera](https://www.coursera.org/professional-certificates/ibm-data-analyst)
