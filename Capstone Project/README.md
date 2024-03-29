@@ -1,9 +1,7 @@
 # IBM Data Analyst Capstone Project
 ## Introduction
 
-Assuming that I've recently joined a global IT and business consulting services firm renowned for its expertise in IT solutions and its team of highly experienced IT consultants. In my role as a Data Analyst, I'm tasked with supporting the organization's efforts to stay ahead of the curve in a rapidly evolving technological landscape.
-
-One of the key initiatives involves regularly analyzing data to anticipate future skill requirements, ensuring we remain competitive in the market. My primary responsibility is to assist in this endeavor by collecting data from various sources and identifying emerging trends. To accomplish this, I'll be utilizing the IBM Skill Network Labs' virtual environment, where I'll engage in a series of tasks. Here's a breakdown of what I'll be doing:
+Assuming I've recently joined a prestigious global IT and business consulting services firm renowned for its IT expertise, my role as a Data Analyst involves supporting the organization's efforts to stay ahead of the curve in a rapidly evolving technological landscape. Key among these initiatives is regularly analyzing data to anticipate future skill requirements, ensuring competitiveness in the market. My primary responsibility is to assist in this endeavor by collecting data from various sources and identifying emerging trends, utilizing the IBM Skill Network Labs' virtual environment for the tasks at hand. Here's a breakdown of what I'll be doing:
 
 **Part 1: Data Collection**
 - Collecting Data Using APIs
