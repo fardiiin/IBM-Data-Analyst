@@ -9,7 +9,7 @@ Assuming I've recently joined a prestigious global IT and business consulting se
 - Collecting Data Using Webscraping - `1.2 popular-languages.csv`
 - Exploring Data - `1.3 Explore survey data.ipynb`
 
-**Part 2: Data Wrangling**
+**Part 2: Data Wrangling** <br>
 `2.1 Data Wrangling.ipynb`
 - Finding Missing Values
 - Determining Missing Values
@@ -17,13 +17,13 @@ Assuming I've recently joined a prestigious global IT and business consulting se
 - Removing Duplicates
 - Normalizing Data
 
-**Part 3: Exploratory Data Analysis**
+**Part 3: Exploratory Data Analysis**<br>
 `3.1 EDA.ipynb`
 - Distribution
 - Outliers
 - Correlation
 
-**Part 4: Data Visualization**
+**Part 4: Data Visualization**<br>
 `4.1 Data Viz with Python.ipynb`
 - Visualizing Distribution of Data
 - Relationship
